@@ -7,7 +7,6 @@ import webbrowser
 from reportlab.pdfgen import canvas
 #import Tkinter as tk     # python 2
 #import tkFont as tkfont  # python 2
-# Created by: Jevoy Charvis
 #****************************************
 
 #connecting to the database
